@@ -16,7 +16,7 @@
     "@ckeditor/ckeditor5-indent": "^21.0.0",
     "@ckeditor/ckeditor5-link": "^21.0.0",
     "@ckeditor/ckeditor5-list": "^21.0.0",
-    "@ckeditor/ckeditor5-markdown-gfm": "^21.0.0",
+    "@ckeditor/ckeditor5-markdown-gfm": "^27.0.0",
     "@ckeditor/ckeditor5-mention": "^21.0.0",
     "@ckeditor/ckeditor5-paragraph": "^21.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^21.0.0",
